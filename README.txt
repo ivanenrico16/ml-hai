@@ -1,4 +1,4 @@
-Steps: (Run this Program in Jupyter Notebook or Google Collab)
+Steps: (Run this Program in Jupyter Notebook or Google Collab, I recommend you to run this in Jupyter Notebook)
 1. Import all of required libraries
 2. Load and Split the data training set into input(X) and output(y) variables. 
 X variable consists all of data from column 2-10 and the y variable consists all of data from column 11.
